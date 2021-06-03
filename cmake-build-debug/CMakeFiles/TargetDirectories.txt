@@ -1,0 +1,14 @@
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/doc.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/lines.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/ei.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/minimal.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/polygons.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/frame.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/button.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/hello_world.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/two048.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/minesweeper.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/puzzle.dir
+/home/user/Git/simple_gui/cmake-build-debug/CMakeFiles/test_ext_class.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/hello_world.dir/tests/hello_world.c.o -o hello_world  libei.a ../_x11/libeibase64.a ../_x11/_x11.libextclass64.a -L/home/user/Git/simple_gui/_x11 -lfreeimage -lSDL2 -lSDL2_ttf -lm 

@@ -1,0 +1,8 @@
+Construisez votre projet ici avec CMake, pour éviter d'avoir beaucoup de fichier de compilation à la racine du projet.
+
+Example:
+cd cmake
+cmake ..
+make minimal
+cd ..
+./cmake/minimal

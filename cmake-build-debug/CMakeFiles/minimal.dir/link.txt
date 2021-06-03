@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/minimal.dir/tests/minimal.c.o -o minimal  libei.a ../_x11/libeibase64.a ../_x11/_x11.libextclass64.a -L/home/user/Git/simple_gui/_x11 -lfreeimage -lSDL2 -lSDL2_ttf -lm 
