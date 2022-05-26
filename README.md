@@ -1,4 +1,12 @@
-# simple-gui
+#  Simple GUI library written in C 
 
-Can easily be opened and tested in CLion.
-Otherwise, check the cmake folder.
+In order to run this project you must have the SDL2 library installed.
+
+Run the program by following these instructions:
+```
+$ cd cmake
+$ cmake ..
+$ make minimal
+$ cd ..
+$ ./cmake/minimal
+```
